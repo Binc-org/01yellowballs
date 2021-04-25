@@ -8,7 +8,8 @@ Now I did clone to Desktop, I found in command line...BUT doing updates or Bundl
 This repo can not be opened as a localhost....
 IT can only be viewed on a GITHUB.io. website...on line. 
 
-I now changed the theme to ## leap year...
+I now changed the theme to ## leap year...and YES it loads on line site. 
+
 
 
 THE BIG HOWEVER>>>>>
